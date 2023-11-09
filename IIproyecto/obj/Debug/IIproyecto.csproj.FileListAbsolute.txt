@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\IIproyecto\bin\Debug\IIproyecto.exe.config
+C:\Users\User\Desktop\IIproyecto\bin\Debug\IIproyecto.exe
+C:\Users\User\Desktop\IIproyecto\bin\Debug\IIproyecto.pdb
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.Properties.Resources.resources
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.csproj.GenerateResource.cache
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.exe
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.pdb
+C:\Users\User\Desktop\IIproyecto\obj\Debug\IIproyecto.frmPrincipal.resources
